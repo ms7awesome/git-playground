@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // first commit
         // second commit
+        // relase 1.0.0 commit 
     }
 }
