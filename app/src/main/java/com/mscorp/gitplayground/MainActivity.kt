@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         // relase 1.0.0 commit
         // ms03 첫번째 커밋
         // relase 1.1.0 commit
+        // ms01 commit 추가
     }
 }
